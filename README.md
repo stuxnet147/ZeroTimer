@@ -1,5 +1,5 @@
 # ZeroTimer
-This is a simple zero-defendency timer implementation.
+This is a simple zero-dependency timer implementation.
 ## Limit
 Only Windows works (Kernel Mode Support)
 ## Usage
