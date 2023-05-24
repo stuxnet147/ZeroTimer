@@ -1,4 +1,6 @@
 # SimpleTimer
+This is a simple zero-defendency timer implementation.
+## Limit
 Only Windows works (Kernel Mode Support)
 ## Usage
 ```cpp
